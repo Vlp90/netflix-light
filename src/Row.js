@@ -20,7 +20,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
   // if [], run once and not again
   // if we use a variable outside de useEffect block, we have to fill the dependencie [fetchUrl]
 
-  console.log(movies);
+//   console.log(movies);
   return (
     <div className="row">
       <h2>{title}</h2>
