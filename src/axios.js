@@ -1,5 +1,5 @@
 import axios from "axios";
-import requests from "./requests";
+// import requests from "./requests";
 
 // base url to make requests to the movie database
 
