@@ -27,7 +27,10 @@ function Nav() {
         src="/netflixAvatar.png"
         alt="Netflix Avatar"
       />
+
+
     </div>
+
   );
 }
 
