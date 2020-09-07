@@ -55,3 +55,7 @@
             rgba(37, 37, 37, 0.61),
             #111);
 }
+
+.banner::-webkit-scrollbar {
+    display: none;
+}
